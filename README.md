@@ -1,0 +1,1 @@
+This is a reproduction repository for https://github.com/renovatebot/renovate/discussions/27722.
